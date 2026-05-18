@@ -1,50 +1,11 @@
 {
-	"geode": "v5.6.1",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "esilagd.multiplayer",
-	"name": "Multiplayer",
-	"version": "v1.10",
-	"developer": "Esilagd",
-	"description": "a multiplayer for versus",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-		"links": {
-        "source": "https://github.com/Esilagd/Multiplayer",
-        "community": "https://discord.gg/eERTwtxum"
-    },
-    "tags": [
-        "online", "offline"
-    ],
-    "settings": {
-        "force-no-preload": {
-            "type": "trail",
-            "name": "Disable trail",
-            "description": "disable trail with other player (you wont see other player trail or wave trail)",
-            "default": false
-        }
-    },
-    "resources": {
-        "sprites": [
-            "resources/misc/*.png",
-            "resources/menu/*.png",
-            "resources/featured/*.png",
-            "resources/roles/*.png",
-            "resources/game/*.png"
-        ]
-    },
-    "api": {
-        "include": [
-            "include/multiplayer/*.hpp",
-            "include/multiplayer/core/*.hpp",
-            "include/multiplayer/core/data/*.hpp",
-            "include/multiplayer/core/game/*.hpp",
-            "include/multiplayer/core/net/*.hpp",
-            "include/multiplayer/soft-link/*.hpp",
-        ]
-    }
+  "geode": "v5.6.1", 
+  "gd": {
+    "win": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "esilagd.multiplayer",
+  "name": "Multiplayer",
+  "version": "v1.10",
+  "developer": "Esilagd"
 }
