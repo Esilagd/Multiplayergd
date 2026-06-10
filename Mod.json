@@ -17,8 +17,7 @@
         "source": "https://github.com/Esilagd/Multiplayer",
         "community": "https://discord.gg/eERTwtxum"
     },
-    "tags": [
-        "online", "offline"
+    "tags": ["gameplay", "online", "developer"],
     ],
     "settings": {
         "force-no-preload": {
