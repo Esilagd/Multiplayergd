@@ -20,7 +20,7 @@
     "tags": ["gameplay", "online", "developer"],
     ],
     "settings": {
-        "force-no-preload": {
+        "no-preloader": {
             "type": "trail",
             "name": "Disable trail",
             "description": "disable trail with other player (you wont see other player trail or wave trail)",
