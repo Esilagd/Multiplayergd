@@ -13,8 +13,7 @@ you will see it what will it
 <img width="1749" height="1301" alt="image" src="https://github.com/user-attachments/assets/c6c0ef56-312a-4ae8-a1af-bc7de7ff49b5" />
 
 ## creadit
-thanks for guiding geode on github
-thanks for github because i created my mods on github
+just only me :(
 
 
 :)
